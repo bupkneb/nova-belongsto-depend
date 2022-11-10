@@ -1,6 +1,6 @@
 <?php
 
-namespace Orlyapps\NovaBelongsToDepend;
+namespace Bupkneb\NovaBelongsToDepend;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Events\ServingNova;

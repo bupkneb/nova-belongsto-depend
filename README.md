@@ -18,7 +18,7 @@ If you use an older version of Laravel you can use an older version of the packa
 You can install the package in to a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
 
 ```bash
-composer require orlyapps/nova-belongsto-depend
+composer require bupkneb/nova-belongsto-depend
 ```
 
 Use this field in your Nova Resource

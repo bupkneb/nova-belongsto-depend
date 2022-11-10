@@ -1,3 +1,3 @@
 <?php
 
-Route::post('/', \Orlyapps\NovaBelongsToDepend\Http\Controllers\FieldController::class . '@index');
+Route::post('/', \Bupkneb\NovaBelongsToDepend\Http\Controllers\FieldController::class . '@index');
