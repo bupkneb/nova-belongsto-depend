@@ -1,6 +1,6 @@
 <?php
 
-namespace Bupkneb\NovaBelongsToDepend\Http\Controllers;
+namespace Orlyapps\NovaBelongsToDepend\Http\Controllers;
 
 use Illuminate\Database\Eloquent\Model;
 use \Illuminate\Http\Resources\MergeValue;
@@ -10,7 +10,7 @@ use Laravel\Nova\Http\Requests\NovaRequest;
 use Laravel\Nova\Nova;
 use Laravel\Nova\Panel;
 use Laravel\Nova\Resource;
-use Bupkneb\NovaBelongsToDepend\NovaBelongsToDepend;
+use Orlyapps\NovaBelongsToDepend\NovaBelongsToDepend;
 
 class FieldController extends Controller
 {

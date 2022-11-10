@@ -1,6 +1,6 @@
 <?php
 
-namespace Bupkneb\NovaBelongsToDepend;
+namespace Orlyapps\NovaBelongsToDepend;
 
 use Illuminate\Support\Str;
 use Laravel\Nova\Actions\Action;
